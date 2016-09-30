@@ -1,0 +1,7 @@
+LIBRARY WL_MTF_SenkouSpan
+
+EXPORTS Init
+	Calculate
+	ReplaceStr
+	IntrfProcsRec
+	OnParamsChange

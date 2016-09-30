@@ -1,0 +1,6 @@
+*.suo
+Debug/
+*.db
+*.opendb
+WL_MTF_SenkouSpan/IndicatorInterfaceUnit.h
+WL_MTF_SenkouSpan/TechnicalFunctions.h
